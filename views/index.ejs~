@@ -9,5 +9,9 @@
     <h1><%= title %></h1>
     <p>Bienvenido a  <%= title %></p>
 <p> El portal donde podra crear sus propios juegos!</>
-  </body>
+<footer>Celia Sanchez - <script type="text/javascript">document.write(new Date());</script> - 
+<a href="https://github.com/csmayor/quizCe.git"> Propiedades </a><a href="mailto:c.smayoral@alumnos.upm.es"> c.smayoral@alumnos.upm.es </a>
+		
+</footer> 
+ </body>
 </html>
